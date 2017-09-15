@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "CAPKit-lua53"
-  s.version      = "0.1.3"
+  s.version      = "0.1.4"
   s.summary      = "lua53 library."
   s.description  = <<-DESC
                    lua5.3.3 library.
